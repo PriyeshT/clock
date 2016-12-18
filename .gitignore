@@ -1,0 +1,4 @@
+node_modules/
+scss/
+bin/
+npm-debug.log
